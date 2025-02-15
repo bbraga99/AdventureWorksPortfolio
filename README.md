@@ -1,3 +1,7 @@
+<h1>Diagrama e relacionamento entre tabelas utilizados</h1>
+<img src="">
+
+
 <h1>📊 Análise de Vendas no Banco de Dados AdventureWorks</h1><br>
 Esse projeto tem por objetivo fazer uma análise de dados utilizando o SQL onde realizamos a exploração dos dados de vendas do banco de dados AdventureWorks.<br><br>
 O principal objetivo do projeto foi obter insights valiosos sobre faturamento, clientes e produtos mais vendidos da empresa.<br><br>
