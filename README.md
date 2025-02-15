@@ -1,7 +1,3 @@
-<h1>Diagrama e relacionamento entre tabelas utilizados</h1>
-<img src="">
-
-
 <h1>📊 Análise de Vendas no Banco de Dados AdventureWorks</h1><br>
 Esse projeto tem por objetivo fazer uma análise de dados utilizando o SQL onde realizamos a exploração dos dados de vendas do banco de dados AdventureWorks.<br><br>
 O principal objetivo do projeto foi obter insights valiosos sobre faturamento, clientes e produtos mais vendidos da empresa.<br><br>
@@ -88,4 +84,8 @@ Esses dados podem ser úteis caso a empresa queira fazer uma segmentação de cl
   Outro ponto relevante foi a relação entre novos e recorrentes clientes. Em todos os anos analisados, 2013 se destacou como o ano com o maior número de novos clientes e, consequentemente, o de maior faturamento. No entanto, ao longo do período estudado, o número de novos clientes sempre superou o de recorrentes, indicando que a empresa possui uma estratégia eficiente de aquisição, mas pode aprimorar suas ações de retenção. Investir em fidelização, como programas de recompra ou benefícios exclusivos para clientes antigos, pode ser uma oportunidade para aumentar o ticket médio e fortalecer a base de consumidores fiéis.<br>
   Além disso, conseguimos mapear os produtos e categorias mais vendidos, calcular o ticket médio das compras e identificar os clientes que mais contribuíram para o faturamento da empresa.<br>
 No geral, essa análise forneceu uma visão abrangente do cenário de vendas, destacando oportunidades estratégicas para otimizar o desempenho comercial e impulsionar o crescimento nos próximos anos.
+
+
+<h1>Diagrama e relacionamento entre tabelas utilizados</h1>
+<img src="https://github.com/bbraga99/AdventureWorksPortfolio/blob/main/images/Diagrama%20utilizado.jpg?raw=true">
 
